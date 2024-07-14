@@ -16,7 +16,8 @@ The dataset consists of several columns, including features related to loan appl
 12. bank_asset_value: Value of bank assets.
 13. loan_status: Approval status of the loan (target variable).
 
-What This Script Does:
+**detailed breakdown of the projects:**
+
 **Data Loading and Understanding:**
   Load the dataset (loan_approval_dataset.csv) and understand its structure, features, and target variable (e.g., Loan_Status).
 
